@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.deglaze.FondAndroid",
+      "sha256_cert_fingerprints": [
+        "94:21:1A:3C:D6:AE:7E:11:66:18:91:DE:D1:7F:75:78:C5:EF:0F:1E:F9:DC:57:4E:4C:F5:AD:81:03:0F:F1:9C",
+        "70:DE:97:7B:C7:68:AB:57:08:7D:EA:2A:AE:D7:7E:19:C4:20:F6:E3:40:6D:A8:87:B1:F5:60:04:53:D6:C7:9F"
+      ]
+    }
+  }
+]

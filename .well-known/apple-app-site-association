@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "M7TWTQQ2XM.co.deglaze.FondiOS",
+        "paths": [
+          "NOT /__/auth/action/",
+          "NOT /__/auth/handler/",
+          "NOT /_/*",
+          "NOT /z/*",
+          "/r/*"
+        ]
+      }
+    ]
+  }
+}
